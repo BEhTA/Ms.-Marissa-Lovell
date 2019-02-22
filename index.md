@@ -1,6 +1,6 @@
 ```markdown
 
-# Biography
+### Biography
 
 [Link](url) and ![Image](src)
 ```
