@@ -11,7 +11,7 @@ BEhTA.lab.mu@gmail.com
 
 -[Facebook]()
 
--[Twitter}()
+-[Twitter]()
 
 -[Linkedin]()
 
